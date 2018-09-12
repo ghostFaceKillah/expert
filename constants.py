@@ -10,7 +10,7 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_IMG_SIZE = (210, 160, 3)
 ACTION_SPACE_SIZE = 18
 
-MONTE_DATA_GDRIVE_ID = '1Ju12d_kZrX0On5Ls6CD3qAsl7jy2kZxt'
+MONTE_DATA_GDRIVE_ID = '1Q6rgqLEr9JIqFDNkYnNn93vBkyEUDPF6'
 
 def openai_logdir():
     return os.path.join(
