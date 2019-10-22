@@ -31,5 +31,5 @@ tensorboard==1.10.0
 tensorpack==0.8.9
 termcolor==1.1.0
 tqdm==4.25.0
-urllib3==1.23
+urllib3==1.24.2
 Werkzeug==0.14.1
